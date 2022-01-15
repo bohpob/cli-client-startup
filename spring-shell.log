@@ -1,0 +1,121 @@
+1642277398027:hepl
+1642279068960:help
+1642279099042:set-owner --id 1
+1642279142394:set-owner --username poberboh
+1642279230842:help
+1642279245739:set-owner --username janvesely
+1642279511281:help
+1642279519777:set-owner --id 1
+1642279639096:help
+1642279647276:set-owner --id 1
+1642279655806:set0owner --id 2
+1642279662929:set-owner 2
+1642279711192:help
+1642279734642:set-owner --id 1
+1642279816397:help
+1642279822473:set-owner --id 1
+1642279932988:set-owner --id 2
+1642279998636:set-owner --id 1
+1642280067760:help
+1642280075530:set-owner --id 1
+1642280086661:set-owner --id 2
+1642280364119:set-owner --id 1
+1642281114909:help
+1642281121889:set-owner --id 1
+1642281145052:read-owner
+1642281167921:read-owner --id 1
+1642281174754:unset-owner
+1642281179545:help
+1642281187086:unset-user
+1642281327453:help
+1642281334695:set-owner --id 1
+1642281359988:help
+1642281364967:set-owner --id 1
+1642281396177:delete-owner
+1642281416350:read-owner
+1642281616497:list-owners
+1642281724234:read-owner
+1642281732973:read-owner --id 1
+1642282230871:help
+1642282235428:set-owner 1
+1642282239991:read-owner
+1642282315753:set-owner 1
+1642282319661:read-owner
+1642282377695:set-owner 1
+1642282381917:read-owner
+1642282425673:set-owner 1
+1642282428846:read-owner
+1642282450224:set-owner 1
+1642282454544:read-owner
+1642282466166:unset-owner
+1642282598871:set-owner 2
+1642282604403:read-owner
+1642282801542:set-owner 1
+1642282805194:read-owner
+1642282863794:help
+1642283156188:help update-owner
+1642283172887:help
+1642283228933:update-owner --username jansupervesely --firstname J --lastname VESELYN
+1642283266783:update-owner --username jan --firstname JAN --lastname VESELY
+1642283363995:set-owner
+1642283368171:set-owner 1
+1642283371952:read-owner
+1642283375808:help
+1642283398932:updtae-owner --username jan --firstname JAN --lastname VESELY
+1642283437514:update-owner --username jan --fistname JAN --lastname VESELY
+1642283474444:update-owner --username jan --firstname JAN --lastname VESELY
+1642283494439:help update-owner
+1642283531649:set-owner 1
+1642283535083:read-owner
+1642283573105:update-owner --username jan --firstname JAN --lastname VESELY
+1642283578008:read-owner
+1642284019333:unset-owner
+1642284024305:set-owner 2
+1642284027486:read-owner
+1642284037930:help
+1642284059223:delete-owner
+1642284189975:help delete-owner
+1642284199943:delete-owner
+1642284227073:help
+1642284233498:set-owner 2
+1642284237170:read-owner
+1642284244419:delete-owner
+1642284296776:set-owner 2
+1642284321448:delete-owner
+1642284655142:help
+1642284662703:help create-owner
+1642284867865:create-owner --username user --firstname Jmeno --lastname Prijmeni
+1642285419222:set-owner 4
+1642285422268:read-owner
+1642285430156:delet-owner
+1642285433991:delete-owner
+1642285456725:set-owner 1
+1642285460957:delete-owner
+1642286259499:set-owner 2
+1642286265292:read-owner
+1642286297679:set-owner 2
+1642286302275:read-owner
+1642286406879:set-owner 2
+1642286415031:read-startup
+1642286421566:read-owner
+1642286493795:set-owner 3
+1642286498939:read-owner
+1642286545229:set-owner 3
+1642286548979:read-owner
+1642286563576:set-owner 2
+1642286577807:read-owner
+1642286687863:set-owner 2
+1642286692454:read-owner
+1642286737508:set-owner
+1642286743957:set-owner 2
+1642286748153:read-owner
+1642286790312:set-owner 2
+1642286796217:read-startup
+1642286800636:read-owner
+1642286958578:set-owner 4
+1642286963866:set-owner 2
+1642286968303:read-owner
+1642287257673:set-owner 2
+1642287263169:read-owner
+1642287310369:set-owner 2
+1642287314330:read-owner
