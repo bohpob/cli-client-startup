@@ -14,3 +14,18 @@ The client enables users to perform all CRUD operations on at least one entity, 
 ## Server Side
 
 [Server Repository Link](https://github.com/bohpob/SpringDemoServer)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/bohpob/SpringShellDemoClient.git
+   ```
+2. Navigate to the client directory and run:
+   ```bash
+    cd SpringShellDemoClient/
+      ./gradlew bootRun
+   ```
+
+You can invoke the `help` command within the Spring Shell console to view all available commands and functionalities, providing an easy way to explore the application's capabilities.
+   
