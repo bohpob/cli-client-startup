@@ -23,7 +23,7 @@ The client enables users to perform all CRUD operations on at least one entity, 
    ```
 2. Navigate to the client directory and run:
    ```bash
-    cd SpringShellDemoClient/
+    cd cli-client-startup/
       ./gradlew bootRun
    ```
 
