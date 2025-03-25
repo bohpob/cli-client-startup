@@ -13,13 +13,13 @@ The client enables users to perform all CRUD operations on at least one entity, 
 
 ## Server Side
 
-[Server Repository Link](https://github.com/bohpob/SpringDemoServer)
+[Server Repository Link](https://github.com/bohpob/server-startup)
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bohpob/SpringShellDemoClient.git
+   git clone https://github.com/bohpob/cli-client-startup.git
    ```
 2. Navigate to the client directory and run:
    ```bash
